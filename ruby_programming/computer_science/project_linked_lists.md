@@ -43,7 +43,7 @@ For a more thorough explanation, use these resources:
 
 Build the following methods in your linked list class:
 
-1. `#append(value)` adds a new node containing `value` to the end of the list
+1.  `#append(value)` adds a new node containing `value` to the end of the list
 2. `#prepend(value)` adds a new node containing `value` to the start of the list
 3. `#size` returns the total number of nodes in the list
 4. `#head` returns the first node in the list
